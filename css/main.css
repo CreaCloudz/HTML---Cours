@@ -1,0 +1,62 @@
+body {
+    font-family: 'Montserrat';font-size: 22px;
+}
+
+h1 {
+    color: blue;
+    text-decoration: underline;
+}
+
+h2 {
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+h3 {
+    color: chartreuse;
+    font-style: italic;
+}
+
+h4 {
+    color: darkgoldenrod;
+}
+
+h5 {
+    color: darkslateblue;
+}
+
+h6 {
+    color: dodgerblue;
+}
+
+.underline {
+    text-decoration: underline blue;
+}
+
+.fat {
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+.italics {
+    font-style: italic;
+    color: chartreuse;
+}
+
+.image_one {
+    width: 150px;
+    height: 150px;
+}
+
+.image_two {
+    width: 300px;
+    height: 300px;
+}
+
+.ul {
+    color: darkslateblue;
+}
+
+.ol {
+    color: dodgerblue;
+}
